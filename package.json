@@ -1,15 +1,33 @@
 {
   "name": "khmer-utils",
   "version": "1.0.0",
+  "description": "A Khmer utility library for number formatting, currency conversion, date localization, transliteration, and text normalization.",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
     "test:watch": "mocha --watch"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "keywords": [
+    "khmer",
+    "cambodia",
+    "locale",
+    "currency",
+    "transliteration",
+    "number-formatting",
+    "khmer-language",
+    "date-formatting",
+    "utilities"
+  ],
+  "author": "seavleuheang@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Seavleu/khmer-utils.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Seavleu/khmer-utils/issues"
+  },
+  "homepage": "https://github.com/Seavleu/khmer-utils#readme",
   "devDependencies": {
     "mocha": "^11.1.0"
   }

@@ -134,4 +134,4 @@ Feel free to reach out if you want to <a href="https://github.com/Seavleu/khmer-
 
 If you find this useful for Khmer development or localization, please ⭐️ the repo and share it!
 
-Created with ❤️ by Jenny Heang
+Created with ❤️ by Seavleu Heang
